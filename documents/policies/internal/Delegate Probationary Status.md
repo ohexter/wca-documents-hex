@@ -3,7 +3,7 @@
 ### Version 1.5 {.version}
 
 ## Policy
-Delegates who fail to do their duties may be placed on probation. This is an internal designation which only the Delegate on probation, Regional Delegate, Senior Delegate, Board, and relevant committees and/or teams would be aware of.
+Delegates who fail to do their duties may be placed on probation. This is an internal designation which only the Delegate on probation, Regional Delegate, Senior Delegate, Board, and relevant committees and/or teams would be aware of. This is a test.
 
 ### Probation Due to Late Reports and/or Results
 Delegates who submit late reports and/or results for two consecutive competitions, or Delegates who demonstrate a pattern of late submissions of reports and/or results, shall be subject to the following restrictions.
